@@ -1,0 +1,23 @@
+1. Sistema Inteligente de Predicción de Bajo Rendimiento Académico
+Problema:
+Muchos estudiantes bajan su rendimiento y la universidad se da cuenta cuando ya es tarde (pierden materias o desertan).
+Solución:
+Desarrollar una plataforma que use análisis de datos para detectar patrones de riesgo académico.
+¿Cómo funcionaría?
+	Se conectaría al sistema académico.
+	Analiza: notas parciales, asistencia, retrasos en pagos, uso de plataforma virtual.
+	Algoritmo de predicción (Machine Learning básico).
+	Genera alertas a coordinación y recomienda tutorías.
+Impacto
+Reducir deserción y mejorar el acompañamiento personalizado.
+
+2. Sistema de Control de Gastos Personales para Estudiantes
+Problema: Muchos estudiantes no saben en qué se les va el dinero.
+Solución: Aplicación web o móvil donde registren ingresos, gastos, categorías y estadísticas.
+Tecnologías posibles:
+  Java + MySQL
+  Python + Flask
+  HTML, CSS, JS
+Valor agregado:
+Gráficas mensuales
+Alertas cuando superen un presupuesto
