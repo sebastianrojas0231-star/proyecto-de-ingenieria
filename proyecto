@@ -1,1 +1,75 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**Descripción del Proyecto**
 
+Este proyecto consiste en el desarrollo de una plataforma web orientada al seguimiento y gestión de proyectos académicos. La idea principal es ofrecer una herramienta que permita a estudiantes y docentes organizar tareas, monitorear avances y mantener una mejor comunicación durante el desarrollo de un proyecto.
+
+En muchos casos, los proyectos universitarios se gestionan de forma desorganizada, utilizando múltiples herramientas o incluso archivos separados, lo que puede generar retrasos y dificultades para conocer el estado real del trabajo.
+
+Por esta razón, el sistema busca centralizar la información del proyecto en una sola plataforma, donde se pueda visualizar el progreso de las actividades, las fechas de entrega y el cumplimiento de cada tarea.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**Funcionamiento General del Sistema**
+
+La plataforma permitirá registrar proyectos académicos y asignar tareas asociadas a cada uno. Los usuarios podrán actualizar el estado de sus actividades, registrar avances y verificar si existen tareas pendientes o próximas a vencer.
+
+El sistema también incorporará mecanismos de notificación para alertar cuando una actividad esté cerca de su fecha límite o cuando exista un retraso en el desarrollo del proyecto.
+
+Además, se incluirán herramientas de visualización que permitan analizar el progreso del proyecto mediante reportes y gráficos que faciliten la interpretación de la información.
+
+Características Principales
+
+Gestión de proyectos académicos
+
+Registro y seguimiento de tareas
+
+Control de fechas límite
+
+Sistema de alertas por retrasos
+
+Visualización del progreso mediante reportes
+
+Espacio de comunicación entre estudiantes y docentes
+
+Tecnologías Utilizadas
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**El desarrollo del sistema se plantea utilizando tecnologías web comunes en proyectos académicos:**
+
+Frontend
+
+HTML
+
+CSS
+
+JavaScript
+
+Backend
+
+Node.js
+
+Base de datos
+
+MySQL / SQLite
+
+Control de versiones
+
+Git
+
+Github
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**Posibles Mejoras Futuras**
+
+El sistema puede ampliarse en versiones posteriores agregando nuevas funcionalidades como:
+
+Integración con calendarios académicos
+
+Aplicación móvil
+
+Sistema de autenticación de usuarios
+
+Notificaciones en tiempo real
+
+Análisis más avanzado del progreso de los proyectos
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
