@@ -1,53 +1,44 @@
+1. Definición de Objetivos y Alcance
 Objetivo General
+Desarrollar una plataforma digital inteligente que permita realizar el seguimiento, análisis y control del avance de proyectos de grado, facilitando la organización, 
+supervisión y mejora del desempeño de estudiantes y docentes mediante el uso de herramientas tecnológicas y análisis de datos.
 
-Desarrollar una plataforma digital inteligente que permita realizar el seguimiento, análisis y control 
-del avance de proyectos de grado, facilitando la organización, supervisión y mejora del desempeño de estudiantes y docentes mediante herramientas tecnológicas y análisis de datos.
-
-Objetivos específicos del sistema
+Objetivos Específicos
 Monitorear el progreso de cada proyecto de grado en tiempo real.
-Generar alertas automáticas cuando existan retrasos en entregas.
-Permitir la gestión de tareas, fechas límite y entregables del proyecto.
-Facilitar la comunicación entre estudiantes, directores y jurados.
-Mostrar reportes gráficos del avance del proyecto y cumplimiento de entregas.
+Generar alertas automáticas cuando existan retrasos en el desarrollo del proyecto.
+Permitir la gestión de tareas, fechas límite y entregables de los proyectos.
+Facilitar la comunicación entre estudiantes, tutores y jurados evaluadores.
+Mostrar reportes gráficos que reflejen el avance, cumplimiento y rendimiento de cada proyecto de grado.
 
-Delimitación del alcance
-El sistema permitirá:
-Registro de proyectos de grado
-Asignación de director o tutor
-Seguimiento de avances
-Control de entregas
-Generación de reportes
-Alertas de retrasos
-No incluirá inicialmente:
-Gestión financiera del proyecto
-Evaluación final automática del proyecto
+Delimitación del Alcance
+El sistema permitirá registrar proyectos de grado, asignar directores o tutores, gestionar tareas y entregables, monitorear avances y generar reportes del progreso del proyecto.
+La plataforma estará dirigida principalmente a estudiantes universitarios, docentes y coordinadores académicos.
+Inicialmente el sistema no incluirá funcionalidades relacionadas con gestión financiera del proyecto ni evaluación automática final, 
+centrándose únicamente en el seguimiento académico del desarrollo del proyecto de grado.
 
-2. Identificación de Partes Interesadas (Stakeholders)
-Personas o grupos involucrados en el sistema:
-Estudiantes que desarrollan proyectos de grado
-Directores o tutores del proyecto
-Jurados evaluadores
-Coordinación académica
-Administradores del sistema
-Equipo técnico o desarrolladores
+2. Identificación de Partes Interesadas
+Las partes interesadas o involucradas en el desarrollo y uso del sistema son:
+Estudiantes: quienes desarrollan los proyectos de grado y registran sus avances.
+Directores o tutores: encargados de supervisar el progreso del proyecto.
+Jurados evaluadores: responsables de evaluar los avances y resultados finales.
+Coordinación académica: área encargada de supervisar los procesos de proyectos de grado dentro de la institución.
+Administradores del sistema: encargados de gestionar la plataforma y sus usuarios.
+Equipo técnico o desarrolladores: responsables del diseño, desarrollo y mantenimiento de la plataforma.
 
-3.Requisitos y Especificaciones Técnicas
-Documento de Requisitos
+Requisitos y Especificaciones Técnicas
 Requisitos Funcionales
-
-(Qué debe hacer el sistema)
-Registrar proyectos de grado
-Registrar estudiantes y tutores
-Crear tareas y entregables del proyecto
-Subir avances o documentos
-Visualizar el progreso del proyecto
-Generar reportes de avance
-Enviar alertas de retrasos
-Permitir comunicación entre estudiante y tutor
+Los requisitos funcionales describen las acciones que el sistema debe ser capaz de realizar.
+Registrar estudiantes, docentes y administradores en el sistema.
+Registrar proyectos de grado y asociarlos a los estudiantes correspondientes.
+Asignar directores o tutores a cada proyecto.
+Crear tareas y actividades relacionadas con el desarrollo del proyecto.
+Permitir la carga de documentos y avances del proyecto.
+Generar reportes de progreso del proyecto.
+Enviar alertas o notificaciones cuando existan retrasos en las entregas.
+Permitir la comunicación entre estudiantes y docentes dentro de la plataforma.
 Requisitos No Funcionales
-
-(Cómo debe funcionar el sistema)
-Rendimiento: carga rápida de información y reportes.
-Seguridad: protección de datos académicos y usuarios.
-Disponibilidad: acceso desde cualquier dispositivo con internet.
-Usabilidad: interfaz sencilla para estudiantes y docentes.
+Los requisitos no funcionales definen las características de calidad del sistema.
+Rendimiento: la plataforma debe permitir un acceso rápido a la información y generación de reportes.
+Seguridad: los datos académicos y personales de los usuarios deben estar protegidos mediante mecanismos de autenticación y control de acceso.
+Disponibilidad: el sistema debe estar disponible en línea para que los usuarios puedan acceder desde cualquier lugar con conexión a internet.
+Usabilidad: la interfaz debe ser clara, intuitiva y fácil de utilizar tanto para estudiantes como para docentes.
