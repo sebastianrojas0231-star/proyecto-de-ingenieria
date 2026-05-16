@@ -1,0 +1,52 @@
+Objetivo General
+Desarrollar una plataforma digital inteligente que permita realizar el seguimiento, análisis y control
+del avance de proyectos de grado, facilitando la organización, supervisión y mejora del desempeño de estudiantes y docentes mediante herramientas tecnológicas y análisis de datos.
+
+Objetivos específicos del sistema
+Monitorear el progreso de cada proyecto de grado en tiempo real.
+Generar alertas automáticas cuando existan retrasos en entregas.
+Permitir la gestión de tareas, fechas límite y entregables del proyecto.
+Facilitar la comunicación entre estudiantes, directores y jurados.
+Mostrar reportes gráficos del avance del proyecto y cumplimiento de entregas.
+
+Delimitación del alcance
+El sistema permitirá:
+Registro de proyectos de grado
+Asignación de director o tutor
+Seguimiento de avances
+Control de entregas
+Generación de reportes
+Alertas de retrasos
+No incluirá inicialmente:
+Gestión financiera del proyecto
+Evaluación final automática del proyecto
+
+2. Identificación de Partes Interesadas (Stakeholders)
+Personas o grupos involucrados en el sistema:
+Estudiantes que desarrollan proyectos de grado
+Directores o tutores del proyecto
+Jurados evaluadores
+Coordinación académica
+Administradores del sistema
+Equipo técnico o desarrolladores
+
+3. Requisitos y Especificaciones Técnicas
+Documento de Requisitos
+Requisitos Funcionales
+
+(Qué debe hacer el sistema)
+Registrar proyectos de grado
+Registrar estudiantes y tutores
+Crear tareas y entregables del proyecto
+Subir avances o documentos
+Visualizar el progreso del proyecto
+Generar reportes de avance
+Enviar alertas de retrasos
+Permitir comunicación entre estudiante y tutor
+Requisitos No Funcionales
+
+(Cómo debe funcionar el sistema)
+Rendimiento: carga rápida de información y reportes.
+Seguridad: protección de datos académicos y usuarios.
+Disponibilidad: acceso desde cualquier dispositivo con internet.
+Usabilidad: interfaz sencilla para estudiantes y docentes.
